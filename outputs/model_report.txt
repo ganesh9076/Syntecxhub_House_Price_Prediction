@@ -1,0 +1,3 @@
+Best Model: Linear Regression
+RMSE: 1324506.96
+R2 Score: 0.6529
